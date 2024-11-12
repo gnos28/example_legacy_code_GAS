@@ -1,4 +1,4 @@
-const API_KEY = "914f9524-0e8b-44d2-8888-6a07a928aae7"
+const API_KEY = ""
 
 const today = new Date()
 const todayUStime = today.getTime()
